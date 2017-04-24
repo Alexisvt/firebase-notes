@@ -16,3 +16,10 @@ First we need to execute the next command:
 
 Then that will open a browser that will request the login information, after filling the spaces with the correct
 information the CLI will react and tell you that you are loggin succesfully.
+
+## How to deploy a project
+
+
+```sh
+> firebase deploy --project use-your-project-id
+```
