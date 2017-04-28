@@ -23,3 +23,7 @@ information the CLI will react and tell you that you are loggin succesfully.
 ```sh
 > firebase deploy --project use-your-project-id
 ```
+
+## How to interact with the functions
+
+Depending of the function, we can send data to it doing a `post` request to the url that the deployment process gave us.
